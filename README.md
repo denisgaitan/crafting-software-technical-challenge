@@ -1,4 +1,4 @@
-# crafting-software-technical-challenge
+# Crafting Software: Technical challenge
 Given a list of words and a string made up of those words (no spaces), return the original sentence in a list.
 If there is more than one possible reconstruction, return any of them.
 If there is no possible reconstruction, then return an empty array.
